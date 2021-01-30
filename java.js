@@ -1,7 +1,6 @@
-navegacon p {
-    addEventListener = paginas
+newFunction();
+function newFunction() {
+    aa;
+    FileList = inicio;
 }
 
-video {
-    VRDisplayEvent;
-}
